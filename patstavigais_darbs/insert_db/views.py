@@ -101,7 +101,7 @@ def add_user(request):
             user = User(
                 username=form.cleaned_data['username'],
                 e_mail=form.cleaned_data['e_mail'],
-                xxx=form.cleaned_data['xxx'],
+                reason=form.cleaned_data['Reason'],
             )
 
             user.save()

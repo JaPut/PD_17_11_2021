@@ -5,14 +5,12 @@
     <title>Title</title>
 </head>
 <body>
+<p>Select form Django form</p>
  <form action="" method="post">
         {% csrf_token %}
         {{ form.as_p }}
         <input type="submit">
     </form>
-<form action="" method="post">
-        <input type="text" id="fname" name="fname" value="John"><br>
-        <input type="submit">
-    </form>
+
 </body>
 </html>

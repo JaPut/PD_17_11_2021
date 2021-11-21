@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="892e6bc7-7da5-4de1-80d2-4994e1a3c6dd" name="Changes" comment="">
+    <list default="true" id="892e6bc7-7da5-4de1-80d2-4994e1a3c6dd" name="Changes" comment="add table">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/patstavigais_darbs/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/patstavigais_darbs/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/patstavigais_darbs/insert_db/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/patstavigais_darbs/insert_db/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patstavigais_darbs/insert_db/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/patstavigais_darbs/insert_db/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patstavigais_darbs/insert_db/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/patstavigais_darbs/insert_db/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patstavigais_darbs/templates/filter_user.html" beforeDir="false" afterPath="$PROJECT_DIR$/patstavigais_darbs/templates/filter_user.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patstavigais_darbs/templates/user.html" beforeDir="false" afterPath="$PROJECT_DIR$/patstavigais_darbs/templates/user.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patstavigais_darbs/templates/users.html" beforeDir="false" afterPath="$PROJECT_DIR$/patstavigais_darbs/templates/users.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patstavigais_darbs/templates/usershtml.html" beforeDir="false" afterPath="$PROJECT_DIR$/patstavigais_darbs/templates/usershtml.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +64,29 @@
       <option name="presentableId" value="Default" />
       <updated>1637504925739</updated>
     </task>
+    <task id="LOCAL-00001" summary="add table">
+      <created>1637524290732</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637524290732</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add table" />
+    <option name="LAST_COMMIT_MESSAGE" value="add table" />
   </component>
 </project>
